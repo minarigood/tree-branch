@@ -1,2 +1,2 @@
 #Tree(linked & array)
-![].(./imh/image.png)
+![].(./img/image.png)
