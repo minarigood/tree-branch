@@ -1,2 +1,2 @@
-#Tree(linked & array)
-![].(./img/image.png)
+# Tree(linked & array)
+<img src="./.PNG" />
