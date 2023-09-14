@@ -1,2 +1,2 @@
 # Tree(linked & array)
-<img src="./.PNG" />
+<img src="./image.png" />
